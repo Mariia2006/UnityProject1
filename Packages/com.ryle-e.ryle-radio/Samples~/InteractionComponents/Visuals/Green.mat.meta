@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db77df8a92bd49c42afb81bcdd5d4770
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/InteractionComponents/Visuals/Green.mat
+  uploadId: 853082

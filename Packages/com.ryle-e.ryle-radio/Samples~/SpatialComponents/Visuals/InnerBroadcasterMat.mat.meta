@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebd36d845f73483429f8168cd7440047
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/SpatialComponents/Visuals/InnerBroadcasterMat.mat
+  uploadId: 853082

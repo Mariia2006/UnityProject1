@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 78a5aa54f5feb6a449f6b38fa2cbea40
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/README.md
+  uploadId: 853082

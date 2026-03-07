@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80a9a495f7c76ec448ed4cbe700fbf05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/InteractionComponents/Visuals/Blue.mat
+  uploadId: 853082

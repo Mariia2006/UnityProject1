@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1f2aaed69a9aab49905088f0037b4fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/BasicRadio/Visuals/Scene/Floor.mat
+  uploadId: 853082

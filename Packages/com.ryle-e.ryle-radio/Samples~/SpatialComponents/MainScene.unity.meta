@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb40d5c4437bfa448bfa626d45bf11cb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/SpatialComponents/MainScene.unity
+  uploadId: 853082

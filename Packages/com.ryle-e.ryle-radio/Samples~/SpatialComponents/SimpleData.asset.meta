@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 364cf67b211755a40a3430a47fd777d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 330418
+  packageName: Ryle Radio
+  packageVersion: 1.1.0
+  assetPath: Packages/com.ryle-e.ryle-radio/Samples~/SpatialComponents/SimpleData.asset
+  uploadId: 853082
